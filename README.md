@@ -8,6 +8,7 @@ Das ist unser Geosoftware 2 Projekt.
 Hallo Hallo
 =======
 31.10.18
+neu
 >>>>>>> patch-1
 abcdefghij
 ein neuer versuch ist dran <<<<<<<<<<
