@@ -12,3 +12,7 @@ neu
 >>>>>>> patch-1
 abcdefghij
 ein neuer versuch ist dran <<<<<<<<<<
+
+
+
+Änderung
